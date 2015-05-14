@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasySocialNetwork</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fb_app_id">1601152523465659</string>
+    <string name="title_activity_facebook">FacebookActivity</string>
+    <string name="title_activity_twitter">TwitterActivity</string>
+
+</resources>
